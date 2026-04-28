@@ -16,6 +16,7 @@ Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Teknik bilgi biriki
 - **Kariyer.net İlk İşim Kariyer Akademisi:** Başarıyla tamamlanan akademi eğitimleri ve değerlendirme süreci.
 - **MiniVoIP Projesi:** C++ ve PortAudio kullanılarak geliştirilen UDP tabanlı gerçek zamanlı ses iletim sistemi.
 
+
 ### 💻 Teknoloji Yığınım
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -25,6 +26,9 @@ Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Teknik bilgi biriki
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+
+### 📂 Projelerime Göz Atın
+Teorik bilgilerimi pratiğe döktüğüm, kodladığım ve yönettiğim tüm çalışmalara aşağıdaki **Repositories (Depolar)** bölümünden ulaşabilirsiniz. Projelerim hakkında fikir alışverişi yapmak, kodlarımı incelemek veya geri bildirim vermek isterseniz benimle iletişime geçmekten çekinmeyin! 👇
 
 ### 📫 İletişim
 <a href="BURAYA_LINKEDIN_LINKINI_YAPISTIR" target="_blank">
