@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Gülbahar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="center">Computer Engineering Student & Future Product Owner</h3>
+<h3 align="center">Computer Engineering Student & Future Engineering</h3>
 
 ---
 
@@ -16,7 +16,8 @@ I am a Computer Engineering student at Arel University. I am advancing towards t
 ### 🚀 Featured Achievements & Experiences
 - **YGA & UP School:** Future Talents Program participant.
 - **Kariyer.net "İlk İşim" Career Academy:** Successfully completed academy training and evaluation process.
-- **MiniVoIP Project:** A UDP-based real-time voice transmission system developed using C++ and PortAudio.
+- **Career Ambassador:** Actively representing and promoting career development initiatives.
+- **ArelSEM Education Assistant:** Providing operational and academic support for training programs at Arel University Continuing Education Center.
 
 ### 💻 Tech Stack
 <p align="left">
