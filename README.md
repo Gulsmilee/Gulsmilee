@@ -1,23 +1,24 @@
-<h1 align="center">Merhaba, Ben Gülbahar 👋</h1>
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi & Geleceğin Yazılımcı'sı</h3>
+<h1 align="center">
+  Hi, I'm Gülbahar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+<h3 align="center">Computer Engineering Student & Future Product Owner</h3>
 
 ---
 
-### 👩‍💻 Hakkımda
-Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Teknik bilgi birikimimi liderlik ve ürün yönetimi vizyonuyla harmanlayarak geleceğin yolunda ilerliyorum. Sadece kod yazmakla kalmıyor, projelerin baştan uca stratejisini kurgulamaya, teknik ekiplerle köprü kurmaya ve sürdürülebilir etkiler yaratmaya odaklanıyorum.
+### 👩‍💻 About Me
+I am a Computer Engineering student at Arel University. I am advancing towards the future by blending my technical knowledge with leadership and a product management vision. I don't just write code; I focus on designing end-to-end project strategies, building bridges with technical teams, and creating sustainable impacts.
 
-### 🎯 Odak Noktalarım
-- 🤖 **Yapay Zeka & Veri Bilimi:** Veriden değer üretmek ve akıllı çözümler geliştirmek.
-- 🌱 **Green Tech:** Teknolojiyi doğa dostu ve sürdürülebilir bir gelecek için kullanmak.
-- 🤝 **Liderlik & Topluluk:** Arel Bulut Bilişim Kulübü Genel Sekreterliği görevimin yanı sıra, TOG , Turkısh ve SistersLab gibi organizasyonlarda  rol alarak toplumsal fayda sağlamak.
+### 🎯 My Focus Areas
+- 🤖 **Artificial Intelligence & Data Science:** Extracting value from data and developing smart solutions.
+- 🌱 **Green Tech:** Using technology for an eco-friendly and sustainable future.
+- 🤝 **Leadership & Community:** In addition to my role as the Secretary General of the Arel Cloud Computing Club, I take active roles in organizations such as TOG, Turkish, and SistersLab to create social impact.
 
-### 🚀 Öne Çıkan Başarılar & Deneyimler
-- **YGA & UP School:** Geleceğin Yetenekleri Programı katılımcısı.
-- **Kariyer.net İlk İşim Kariyer Akademisi:** Başarıyla tamamlanan akademi eğitimleri ve değerlendirme süreci.
-- **MiniVoIP Projesi:** C++ ve PortAudio kullanılarak geliştirilen UDP tabanlı gerçek zamanlı ses iletim sistemi.
+### 🚀 Featured Achievements & Experiences
+- **YGA & UP School:** Future Talents Program participant.
+- **Kariyer.net "İlk İşim" Career Academy:** Successfully completed academy training and evaluation process.
+- **MiniVoIP Project:** A UDP-based real-time voice transmission system developed using C++ and PortAudio.
 
-
-### 💻 Teknoloji Yığınım
+### 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,10 +28,10 @@ Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Teknik bilgi biriki
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 📂 Projelerime Göz Atın
-Teorik bilgilerimi pratiğe döktüğüm, kodladığım ve yönettiğim tüm çalışmalara aşağıdaki **Repositories (Depolar)** bölümünden ulaşabilirsiniz. Projelerim hakkında fikir alışverişi yapmak, kodlarımı incelemek veya geri bildirim vermek isterseniz benimle iletişime geçmekten çekinmeyin! 👇
+### 📂 Check Out My Projects
+You can explore all the work where I put my theoretical knowledge into practice, code, and manage in the **Repositories** section below. Feel free to contact me if you want to exchange ideas about my projects, review my code, or provide feedback! 👇
 
-### 📫 İletişim
+### 📫 Contact Me
 <a href="BURAYA_LINKEDIN_LINKINI_YAPISTIR" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
