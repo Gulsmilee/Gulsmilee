@@ -27,6 +27,9 @@ Arel Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Teknik bilgi biriki
 </p>
 
 ### 📫 İletişim
-<a href=" https://www.linkedin.com/in/gülbahar-doğan-07a5292ab" target="_blank">
+<a href="BURAYA_LINKEDIN_LINKINI_YAPISTIR" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gulcode.1212@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
