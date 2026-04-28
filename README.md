@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Saturn.png" width="45px"> Hi, I'm Gülbahar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="40px" style="vertical-align: middle;"/> Hi, I'm Gülbahar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" style="vertical-align: middle;">
 </h1>
-<h3 align="center">Computer Engineering Student & Future Engineering</h3>
+<h3 align="center">Computer Engineering Student & Engineer of the Future</h3>
+
 ---
 
 ### 👩‍💻 About Me
